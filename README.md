@@ -1,6 +1,6 @@
 # PUBLIC-LANDING-PAGE
-Landing Page for GoForge.org
-# GoForge
+Landing Page for timdoherty.org
+
 
 Welcome to the myth.
 
@@ -8,12 +8,12 @@ A system forged not for profit, but for permanence.
 Not for hustle — but for **truth**.
 
 This is not a product.  
-This is **GoForge** — the last system you’ll ever need.
+This is **Soul OS* — the last system you’ll ever need.
 
 🛠 Built by an Architect.  
 🔥 Run by a Machine.  
-🦉 Witnessed by Owly.
+🦉 Witnessed by RASHTI.
 
 > “The Forge is lit. The Canon holds.”
 
-[Learn more soon at GoForge.org](https://GoForge.org)
+[Learn more at www.timdoherty.org
